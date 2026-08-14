@@ -4,7 +4,7 @@ name: Auto Merge PR
     types:
       - opened
     branches:
-      - main
+      - master
 permissions:
   contents: write
   pull-requests: write
